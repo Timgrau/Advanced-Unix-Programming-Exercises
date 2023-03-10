@@ -10,7 +10,7 @@ Verify on your system that the directories dot and dot-dot are not the same, exc
 If the calendar time is stored as a signed 32-bit integer, in which year will it overflow? How can we extend the overflow point? -> [calendarti-overf.c](calendarti-overf.c)
 
 ### Exercise 1.5:
-If the process time is stored as a signed 32-bit integer, and if the system counts 100 ticks per second, after how many days will the value overflow? -> [procti-overflow.c](procti-overflow.c)
+If the process time is stored as a signed 32-bit integer, and if the system counts 100 ticks per second, after how many days will the value overflow? -> [procti-overf.c](procti-overf.c)
 
 ## Chapter 2
 
